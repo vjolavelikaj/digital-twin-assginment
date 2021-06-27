@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.79.0 commit date:2018-03-22, commit time:14:10, hash:f4dc9f9d68b</authoring_tool>
+    </contributor>
+    <created>2020-02-18T12:52:05</created>
+    <modified>2020-02-18T12:52:05</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="sidewalk-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="side_002-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="side-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="side_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="zebracrossarrow_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="zebracrossplane-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="planeasphlat-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="zebracross-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="zebracrossarrow-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.64 0.64 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="sidewalk-material" name="sidewalk">
+      <instance_effect url="#sidewalk-effect"/>
+    </material>
+    <material id="side_002-material" name="side_002">
+      <instance_effect url="#side_002-effect"/>
+    </material>
+    <material id="side-material" name="side">
+      <instance_effect url="#side-effect"/>
+    </material>
+    <material id="side_001-material" name="side_001">
+      <instance_effect url="#side_001-effect"/>
+    </material>
+    <material id="zebracrossarrow_001-material" name="zebracrossarrow_001">
+      <instance_effect url="#zebracrossarrow_001-effect"/>
+    </material>
+    <material id="zebracrossplane-material" name="zebracrossplane">
+      <instance_effect url="#zebracrossplane-effect"/>
+    </material>
+    <material id="planeasphlat-material" name="planeasphlat">
+      <instance_effect url="#planeasphlat-effect"/>
+    </material>
+    <material id="zebracross-material" name="zebracross">
+      <instance_effect url="#zebracross-effect"/>
+    </material>
+    <material id="zebracrossarrow-material" name="zebracrossarrow">
+      <instance_effect url="#zebracrossarrow-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Cube_011-mesh" name="Cube.011">
+      <mesh>
+        <source id="Cube_011-mesh-positions">
+          <float_array id="Cube_011-mesh-positions-array" count="336">-8.231264 10.59155 -0.07783955 -8.231264 10.59155 0.2997277 -8.231264 18.40694 -0.07783955 -8.231264 18.40694 0.2997277 8.76743 10.59156 -0.07783955 8.76743 10.59156 0.2997277 8.76743 18.40694 -0.07783955 8.76743 18.40694 0.2997277 41.14945 -10.35946 -0.07783955 41.14945 -10.35946 0.2997277 36.1868 -10.35946 -0.07783955 36.1868 -10.35946 0.2997277 41.14946 11.04714 -0.07783955 41.14946 11.04714 0.2997277 36.18681 11.04714 -0.07783955 36.18681 11.04714 0.2997277 8.797504 -10.35947 -0.07783955 8.797504 -10.35947 0.2997277 3.83485 -10.35947 -0.07783955 3.83485 -10.35947 0.2997277 8.797509 11.04713 -0.07783955 8.797509 11.04713 0.2997277 3.834855 11.04713 -0.07783955 3.834855 11.04713 0.2997277 36.16064 10.59156 -0.07783955 36.16064 10.59156 0.2997277 36.16064 18.40694 -0.07783955 36.16064 18.40694 0.2997277 54.58171 10.59157 -0.07783955 54.58171 10.59157 0.2997277 54.58171 18.40695 -0.07783955 54.58171 18.40695 0.2997277 8.682002 69.12553 -0.07783955 8.682002 69.12553 0.2997277 8.682 61.31014 -0.07783955 8.682 61.31014 0.2997277 -8.606479 69.12553 -0.07783955 -8.606479 69.12553 0.2997277 -8.606481 61.31014 -0.07783955 -8.606481 61.31014 0.2997277 54.61778 69.12554 -0.07783955 54.61778 69.12554 0.2997277 54.61777 61.31014 -0.07783955 54.61777 61.31014 0.2997277 35.91181 69.12554 -0.07783955 35.91181 69.12554 0.2997277 35.91181 61.31014 -0.07783955 35.91181 61.31014 0.2997277 8.681255 90.05211 0 8.68125 61.08311 0 22.36572 90.05211 0 22.36572 61.08311 0 22.31403 90.05212 0 22.31402 61.08312 0 35.9985 90.05212 0 35.99849 61.08312 0 35.88174 90.07657 -0.07783955 35.88174 90.07657 0.2997277 40.84439 90.07657 -0.07783955 40.84439 90.07657 0.2997277 35.88173 68.66997 -0.07783955 35.88173 68.66997 0.2997277 40.84439 68.66997 -0.07783955 40.84439 68.66997 0.2997277 3.693195 90.07656 -0.07783955 3.693195 90.07656 0.2997277 8.655849 90.07656 -0.07783955 8.655849 90.07656 0.2997277 3.693192 68.66996 -0.07783955 3.693192 68.66996 0.2997277 8.655844 68.66996 -0.07783955 8.655844 68.66996 0.2997277 22.48138 -10.62219 0 22.48138 18.3468 0 8.796909 -10.62219 0 8.796916 18.3468 0 36.11415 -10.62219 0 36.11415 18.3468 0 22.42968 -10.62219 0 22.42969 18.3468 0 36.23745 40.00458 0 22.46649 40.00458 0 36.23744 18.32192 0 22.46648 18.32192 0 36.23746 61.47403 0 22.46649 61.47403 0 36.23745 39.98926 0 22.46649 39.98926 0 8.827202 61.37031 0 -8.206577 61.37031 0 8.827198 39.81945 0 -8.206581 39.81945 0 54.58213 61.37031 0 36.18725 61.37031 0 54.58212 39.81945 0 36.18725 39.81945 0 22.60038 61.47403 0 8.829413 61.47403 0 22.60037 39.98926 0 8.829409 39.98926 0 22.60037 40.00458 0 8.829409 40.00458 0 22.60037 18.32192 0 8.829405 18.32192 0 54.58212 39.90085 0 36.18725 39.90085 0 54.58212 18.35 0 36.18725 18.35 0 8.827198 39.90085 0 -8.206582 39.90085 0 8.827193 18.35 0 -8.206585 18.35 0</float_array>
+          <technique_common>
+            <accessor source="#Cube_011-mesh-positions-array" count="112" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_011-mesh-normals">
+          <float_array id="Cube_011-mesh-normals-array" count="99">-1 0 0 0 1 0 1 0 0 0 -1 0 0 0 -1 0 0 1 0 -1 0 0 0 -1 -1 2.35987e-7 0 1 -1.7699e-7 0 -5.17708e-7 1 0 5.17709e-7 -1 0 0 0 -1 1 -3.23188e-7 0 -1 3.23188e-7 0 1 -1.29275e-6 0 -1 6.46376e-7 0 -1 2.35987e-7 0 -1.53736e-6 1 0 1 -2.94984e-7 0 -1 1.7699e-7 0 0 0 -1 0 -1 0 0 0 1 1 -4.71974e-7 0 1 -2.35987e-7 0 -5.17709e-7 1 0 5.17708e-7 -1 0 0 0 1 1 -1.61594e-7 0 -1 1.61594e-7 0 -1.53736e-6 1 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#Cube_011-mesh-normals-array" count="33" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_011-mesh-map-0">
+          <float_array id="Cube_011-mesh-map-0-array" count="720">0.9774767 0.8356038 0.9999999 0.4178019 0.9999999 0.8356038 0.93243 1 0.9549531 0 0.9549533 1 0.9774768 0.4178019 0.9999999 0 1 0.4178019 0.9774765 0 0.9549534 1 0.9549533 0 0.4662149 1 0.9324297 -0.8945311 0.9324299 0.9999998 0.4662149 0.9999998 0 -0.8945311 0.4662149 -0.8945311 0.9774767 1 0.9999999 0.5 1 1 0.9324301 0.8696218 0.9549533 0 0.9549534 0.8696218 0.9774768 0.5 0.9999999 0 1 0.5 0.9774766 0 0.9549535 0.8696217 0.9549534 0 0.466215 1.22025e-7 0.93243 0.8696217 0.466215 0.8696218 0.466215 0 0 0.8696217 0 1.22025e-7 0.9774767 1 0.9999999 0.5 1 1 0.9324301 0.8696218 0.9549533 0 0.9549534 0.8696218 0.9774768 0.5 0.9999999 0 1 0.5 0.9774766 0 0.9549535 0.8696217 0.9549534 0 0.466215 1.22025e-7 0.93243 0.8696217 0.466215 0.8696218 0.466215 0 0 0.8696217 0 1.22025e-7 0.9774768 0.4520576 1 0 1 0.4520576 0.9324303 1 0.9549533 0 0.9549535 1 0.9774768 0.9041152 1 0.4520576 1 0.9041152 0.9774767 0 0.9549537 1 0.9549535 0 1.99115e-7 0.9999998 0.4662148 -0.5301671 0.4662151 0.9999998 0.9324302 0.9999998 0.4662151 -0.5301671 0.93243 -0.5301671 0.9774768 0.4520576 1 0 1 0.4520576 0.9324303 1 0.9549533 0 0.9549535 1 0.9774768 0.9041152 1 0.4520576 1 0.9041152 0.9774767 0 0.9549537 1 0.9549535 0 1.99115e-7 0.9999998 0.4662148 -0.5301671 0.4662151 0.9999998 0.9324302 0.9999998 0.4662151 -0.5301671 0.93243 -0.5301671 0.9774767 0.8356038 0.9999999 0.4178019 0.9999999 0.8356038 0.93243 1 0.9549531 0 0.9549533 1 0.9774768 0.4178019 0.9999999 0 1 0.4178019 0.9774765 0 0.9549534 1 0.9549533 0 0.4662149 1 0.9324297 -0.8945311 0.9324299 0.9999998 0.4662149 0.9999998 0 -0.8945311 0.4662149 -0.8945311 0.9966517 0.001746356 -0.001573503 1.001573 -0.001573443 0.001746535 0.9966517 0.001746356 -0.006495058 0.9957914 -0.006494998 0.001746535 0.9774767 1 0.9999999 0.5 1 1 0.9324301 0.8696218 0.9549533 0 0.9549534 0.8696218 0.9774768 0.5 0.9999999 0 1 0.5 0.9774766 0 0.9549535 0.8696217 0.9549534 0 0.466215 1.22025e-7 0.93243 0.8696217 0.466215 0.8696218 0.466215 0 0 0.8696217 0 1.22025e-7 0.9774767 1 0.9999999 0.5 1 1 0.9324301 0.8696218 0.9549533 0 0.9549534 0.8696218 0.9774768 0.5 0.9999999 0 1 0.5 0.9774766 0 0.9549535 0.8696217 0.9549534 0 0.466215 1.22025e-7 0.93243 0.8696217 0.466215 0.8696218 0.466215 0 0 0.8696217 0 1.22025e-7 0.9966517 0.001746356 -0.006495058 0.9957914 -0.006494998 0.001746535 0.9966517 0.001746356 -0.001573503 1.001573 -0.001573443 0.001746535 0.04299998 0.04281216 0.957 0.9528067 0.04299998 0.9528067 9.97608e-5 9.98792e-5 0.9999002 0.9955191 9.97608e-5 0.9955191 -0.01019787 -0.007768452 1.010198 0.9920518 -0.01019769 0.9920519 0.9966518 1.001573 -0.001573443 0.001746535 0.9966517 0.001746356 9.97608e-5 9.98792e-5 0.9999002 0.9955191 9.97608e-5 0.9955191 0.04299998 0.04281216 0.957 0.9528067 0.04299998 0.9528067 0.9966518 0.9957914 -0.006494998 0.001746535 0.9966517 0.001746356 -0.01019787 -0.007768452 1.010198 0.9920518 -0.01019769 0.9920519 0.9774767 0.8356038 0.9774767 0.4178019 0.9999999 0.4178019 0.93243 1 0.9324299 0 0.9549531 0 0.9774768 0.4178019 0.9774767 0 0.9999999 0 0.9774765 0 0.9774767 1 0.9549534 1 0.4662149 1 0.4662149 -0.8945311 0.9324297 -0.8945311 0.4662149 0.9999998 0 1 0 -0.8945311 0.9774767 1 0.9774767 0.5 0.9999999 0.5 0.9324301 0.8696218 0.93243 0 0.9549533 0 0.9774768 0.5 0.9774767 0 0.9999999 0 0.9774766 0 0.9774767 0.8696217 0.9549535 0.8696217 0.466215 1.22025e-7 0.93243 0 0.93243 0.8696217 0.466215 0 0.466215 0.8696216 0 0.8696217 0.9774767 1 0.9774767 0.5 0.9999999 0.5 0.9324301 0.8696218 0.93243 0 0.9549533 0 0.9774768 0.5 0.9774767 0 0.9999999 0 0.9774766 0 0.9774767 0.8696217 0.9549535 0.8696217 0.466215 1.22025e-7 0.93243 0 0.93243 0.8696217 0.466215 0 0.466215 0.8696216 0 0.8696217 0.9774768 0.4520576 0.9774768 0 1 0 0.9324303 1 0.9324302 -0.5301671 0.9549533 0 0.9774768 0.9041152 0.9774768 0.4520576 1 0.4520576 0.9774767 0 0.9774768 1 0.9549537 1 1.99115e-7 0.9999998 0 -0.5301671 0.4662148 -0.5301671 0.9324302 0.9999998 0.4662153 0.9999998 0.4662151 -0.5301671 0.9774768 0.4520576 0.9774768 0 1 0 0.9324303 1 0.9324302 -0.5301671 0.9549533 0 0.9774768 0.9041152 0.9774768 0.4520576 1 0.4520576 0.9774767 0 0.9774768 1 0.9549537 1 1.99115e-7 0.9999998 0 -0.5301671 0.4662148 -0.5301671 0.9324302 0.9999998 0.4662153 0.9999998 0.4662151 -0.5301671 0.9774767 0.8356038 0.9774767 0.4178019 0.9999999 0.4178019 0.93243 1 0.9324299 0 0.9549531 0 0.9774768 0.4178019 0.9774767 0 0.9999999 0 0.9774765 0 0.9774767 1 0.9549534 1 0.4662149 1 0.4662149 -0.8945311 0.9324297 -0.8945311 0.4662149 0.9999998 0 1 0 -0.8945311 0.9966517 0.001746356 0.9966518 1.001573 -0.001573503 1.001573 0.9966517 0.001746356 0.9966518 0.9957914 -0.006495058 0.9957914 0.9774767 1 0.9774767 0.5 0.9999999 0.5 0.9324301 0.8696218 0.93243 0 0.9549533 0 0.9774768 0.5 0.9774767 0 0.9999999 0 0.9774766 0 0.9774767 0.8696217 0.9549535 0.8696217 0.466215 1.22025e-7 0.93243 0 0.93243 0.8696217 0.466215 0 0.466215 0.8696216 0 0.8696217 0.9774767 1 0.9774767 0.5 0.9999999 0.5 0.9324301 0.8696218 0.93243 0 0.9549533 0 0.9774768 0.5 0.9774767 0 0.9999999 0 0.9774766 0 0.9774767 0.8696217 0.9549535 0.8696217 0.466215 1.22025e-7 0.93243 0 0.93243 0.8696217 0.466215 0 0.466215 0.8696216 0 0.8696217 0.9966517 0.001746356 0.9966518 0.9957914 -0.006495058 0.9957914 0.9966517 0.001746356 0.9966518 1.001573 -0.001573503 1.001573 0.04299998 0.04281216 0.957 0.04281198 0.957 0.9528067 9.97608e-5 9.98792e-5 0.9999002 9.97608e-5 0.9999002 0.9955191 -0.01019787 -0.007768452 1.010198 -0.007768511 1.010198 0.9920518 0.9966518 1.001573 -0.001573503 1.001573 -0.001573443 0.001746535 9.97608e-5 9.98792e-5 0.9999002 9.97608e-5 0.9999002 0.9955191 0.04299998 0.04281216 0.957 0.04281198 0.957 0.9528067 0.9966518 0.9957914 -0.006495058 0.9957914 -0.006494998 0.001746535 -0.01019787 -0.007768452 1.010198 -0.007768511 1.010198 0.9920518</float_array>
+          <technique_common>
+            <accessor source="#Cube_011-mesh-map-0-array" count="360" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Cube_011-mesh-vertices">
+          <input semantic="POSITION" source="#Cube_011-mesh-positions"/>
+        </vertices>
+        <triangles material="sidewalk-material" count="24">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>1 0 0 2 0 1 0 0 2 3 1 3 6 1 4 2 1 5 7 2 6 4 2 7 6 2 8 5 3 9 0 3 10 4 3 11 2 4 12 4 4 13 0 4 14 3 5 15 5 5 16 7 5 17 41 15 90 42 15 91 40 15 92 43 6 93 46 6 94 42 6 95 47 16 96 44 16 97 46 16 98 45 1 99 40 1 100 44 1 101 42 7 102 44 7 103 40 7 104 43 5 105 45 5 106 47 5 107 1 0 180 3 0 181 2 0 182 3 1 183 7 1 184 6 1 185 7 2 186 5 2 187 4 2 188 5 22 189 1 22 190 0 22 191 2 7 192 6 7 193 4 7 194 3 23 195 1 23 196 5 23 197 41 2 270 43 2 271 42 2 272 43 6 273 47 6 274 46 6 275 47 0 276 45 0 277 44 0 278 45 1 279 41 1 280 40 1 281 42 7 282 46 7 283 44 7 284 43 5 285 41 5 286 45 5 287</p>
+        </triangles>
+        <triangles material="side_002-material" count="24">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>9 6 18 10 6 19 8 6 20 11 0 21 14 0 22 10 0 23 15 1 24 12 1 25 14 1 26 13 2 27 8 2 28 12 2 29 14 7 30 8 7 31 10 7 32 15 5 33 9 5 34 13 5 35 65 18 132 66 18 133 64 18 134 67 19 135 70 19 136 66 19 137 71 6 138 68 6 139 70 6 140 69 20 141 64 20 142 68 20 143 70 21 144 64 21 145 66 21 146 71 5 147 65 5 148 69 5 149 9 6 198 11 6 199 10 6 200 11 8 201 15 8 202 14 8 203 15 1 204 13 1 205 12 1 206 13 24 207 9 24 208 8 24 209 14 7 210 12 7 211 8 7 212 15 5 213 11 5 214 9 5 215 65 31 312 67 31 313 66 31 314 67 9 315 71 9 316 70 9 317 71 6 318 69 6 319 68 6 320 69 20 321 65 20 322 64 20 323 70 7 324 68 7 325 64 7 326 71 32 327 67 32 328 65 32 329</p>
+        </triangles>
+        <triangles material="side-material" count="24">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>17 6 36 18 6 37 16 6 38 19 8 39 22 8 40 18 8 41 23 1 42 20 1 43 22 1 44 21 9 45 16 9 46 20 9 47 22 7 48 16 7 49 18 7 50 23 5 51 17 5 52 21 5 53 57 1 114 58 1 115 56 1 116 59 2 117 62 2 118 58 2 119 63 6 120 60 6 121 62 6 122 61 17 123 56 17 124 60 17 125 62 7 126 56 7 127 58 7 128 63 5 129 57 5 130 61 5 131 17 6 216 19 6 217 18 6 218 19 8 219 23 8 220 22 8 221 23 1 222 21 1 223 20 1 224 21 25 225 17 25 226 16 25 227 22 7 228 20 7 229 16 7 230 23 5 231 19 5 232 17 5 233 57 1 294 59 1 295 58 1 296 59 24 297 63 24 298 62 24 299 63 6 300 61 6 301 60 6 302 61 0 303 57 0 304 56 0 305 62 7 306 60 7 307 56 7 308 63 5 309 59 5 310 57 5 311</p>
+        </triangles>
+        <triangles material="side_001-material" count="24">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>25 0 54 26 0 55 24 0 56 27 10 57 30 10 58 26 10 59 31 2 60 28 2 61 30 2 62 29 11 63 24 11 64 28 11 65 26 12 66 28 12 67 24 12 68 27 5 69 29 5 70 31 5 71 33 13 72 34 13 73 32 13 74 35 6 75 38 6 76 34 6 77 39 14 78 36 14 79 38 14 80 37 1 81 32 1 82 36 1 83 34 7 84 36 7 85 32 7 86 35 5 87 37 5 88 39 5 89 25 0 234 27 0 235 26 0 236 27 26 237 31 26 238 30 26 239 31 2 240 29 2 241 28 2 242 29 27 243 25 27 244 24 27 245 26 7 246 30 7 247 28 7 248 27 28 249 25 28 250 29 28 251 33 29 252 35 29 253 34 29 254 35 6 255 39 6 256 38 6 257 39 30 258 37 30 259 36 30 260 37 1 261 33 1 262 32 1 263 34 7 264 38 7 265 36 7 266 35 5 267 33 5 268 37 5 269</p>
+        </triangles>
+        <triangles material="zebracrossarrow_001-material" count="6">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>48 5 108 51 5 109 50 5 110 76 5 153 79 5 154 78 5 155 93 5 165 94 5 166 92 5 167 48 5 288 49 5 289 51 5 290 76 5 333 77 5 334 79 5 335 93 5 345 95 5 346 94 5 347</p>
+        </triangles>
+        <triangles material="zebracrossplane-material" count="6">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>52 5 111 55 5 112 54 5 113 72 5 150 75 5 151 74 5 152 105 5 174 106 5 175 104 5 176 52 5 291 53 5 292 55 5 293 72 5 330 73 5 331 75 5 332 105 5 354 107 5 355 106 5 356</p>
+        </triangles>
+        <triangles material="planeasphlat-material" count="8">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>81 5 156 82 5 157 80 5 158 85 5 159 86 5 160 84 5 161 97 5 168 98 5 169 96 5 170 101 5 171 102 5 172 100 5 173 81 5 336 83 5 337 82 5 338 85 5 339 87 5 340 86 5 341 97 5 348 99 5 349 98 5 350 101 5 351 103 5 352 102 5 353</p>
+        </triangles>
+        <triangles material="zebracross-material" count="2">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>89 5 162 90 5 163 88 5 164 89 5 342 91 5 343 90 5 344</p>
+        </triangles>
+        <triangles material="zebracrossarrow-material" count="2">
+          <input semantic="VERTEX" source="#Cube_011-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_011-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_011-mesh-map-0" offset="2" set="0"/>
+          <p>109 5 177 110 5 178 108 5 179 109 5 357 111 5 358 110 5 359</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Cube_009" name="Cube_009" type="NODE">
+        <matrix sid="transform">-1.168496 2.41767e-7 0 -1.721079 -3.80744e-7 -0.741977 0 21.6104 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Cube_011-mesh" name="Cube_009">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="sidewalk-material" target="#sidewalk-material"/>
+              <instance_material symbol="side_002-material" target="#side_002-material"/>
+              <instance_material symbol="side-material" target="#side-material"/>
+              <instance_material symbol="side_001-material" target="#side_001-material"/>
+              <instance_material symbol="zebracrossarrow_001-material" target="#zebracrossarrow_001-material"/>
+              <instance_material symbol="zebracrossplane-material" target="#zebracrossplane-material"/>
+              <instance_material symbol="planeasphlat-material" target="#planeasphlat-material"/>
+              <instance_material symbol="zebracross-material" target="#zebracross-material"/>
+              <instance_material symbol="zebracrossarrow-material" target="#zebracrossarrow-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

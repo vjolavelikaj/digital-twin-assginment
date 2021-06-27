@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1113448967392562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4068269319268710}
+  - component: {fileID: 114500453911298720}
+  m_Layer: 0
+  m_Name: SurfacePreset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4068269319268710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113448967392562}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 92.29654, y: -6.099698, z: 41.10479}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114500453911298720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113448967392562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de869df28df357d4ba937b4e85e44c1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  surfaceindex: 2
+  addsurface:
+  - SurfaceName: frontStable
+    usewheelfrictincurve: 1
+    ActiveTerrain: {fileID: 0}
+    TerrainName: 
+    IsTerrain: 0
+    ParticlePrefab: {fileID: 0}
+    Particles: {fileID: 0}
+    EmitParticle: 0
+    TerrainTextureIndex: 0
+    TagName: Untagged
+    clip: {fileID: 0}
+    forwardslip:
+      asymptoteslip: 0.8
+      asymptotevalue: 0.5
+      extremumslip: 0.4
+      extremumvalue: 1
+      Stiffness: 1
+      wheelcollider:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      WheelObject:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      WheelColliderTagName: defualtsurface
+    sideslip:
+      asymptoteslip: 0.5
+      asymptotevalue: 0.75
+      extremumslip: 0.2
+      extremumvalue: 1
+      Stiffness: 1
+  - SurfaceName: rearstable
+    usewheelfrictincurve: 1
+    ActiveTerrain: {fileID: 0}
+    TerrainName: 
+    IsTerrain: 0
+    ParticlePrefab: {fileID: 0}
+    Particles: {fileID: 0}
+    EmitParticle: 0
+    TerrainTextureIndex: 0
+    TagName: Untagged
+    clip: {fileID: 0}
+    forwardslip:
+      asymptoteslip: 0.8
+      asymptotevalue: 0.5
+      extremumslip: 0.4
+      extremumvalue: 1
+      Stiffness: 1
+      wheelcollider: []
+      WheelObject: []
+      WheelColliderTagName: 
+    sideslip:
+      asymptoteslip: 0.5
+      asymptotevalue: 0.75
+      extremumslip: 0.02
+      extremumvalue: 1
+      Stiffness: 1
+  m_surafaceFoldout: 0101
+  wheelcolliderpreset: 0101

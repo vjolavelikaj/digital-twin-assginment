@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: d84ef3dc8a4bfad46ae1049336cc2f88
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube_004
+    100004: Cube_005
+    100006: Cylinder_020
+    100008: Cylinder_021
+    100010: Cylinder_022
+    100012: Cylinder_023
+    100014: Cylinder_024
+    100016: Cylinder_025
+    100018: Cylinder_026
+    100020: Cylinder_027
+    100022: Cylinder_028
+    100024: Cylinder_029
+    100026: Cylinder_030
+    100028: Cylinder_031
+    100030: //RootNode
+    400000: Camera
+    400002: Cube_004
+    400004: Cube_005
+    400006: Cylinder_020
+    400008: Cylinder_021
+    400010: Cylinder_022
+    400012: Cylinder_023
+    400014: Cylinder_024
+    400016: Cylinder_025
+    400018: Cylinder_026
+    400020: Cylinder_027
+    400022: Cylinder_028
+    400024: Cylinder_029
+    400026: Cylinder_030
+    400028: Cylinder_031
+    400030: //RootNode
+    2000000: Camera
+    2100000: wheel
+    2100002: metal
+    2100004: car_paint
+    2100006: dark_paint
+    2100008: light
+    2100010: window
+    2300000: Cube_004
+    2300002: Cube_005
+    2300004: Cylinder_020
+    2300006: Cylinder_021
+    2300008: Cylinder_022
+    2300010: Cylinder_023
+    2300012: Cylinder_024
+    2300014: Cylinder_025
+    2300016: Cylinder_026
+    2300018: Cylinder_027
+    2300020: Cylinder_028
+    2300022: Cylinder_029
+    2300024: Cylinder_030
+    2300026: Cylinder_031
+    3300000: Cube_004
+    3300002: Cube_005
+    3300004: Cylinder_020
+    3300006: Cylinder_021
+    3300008: Cylinder_022
+    3300010: Cylinder_023
+    3300012: Cylinder_024
+    3300014: Cylinder_025
+    3300016: Cylinder_026
+    3300018: Cylinder_027
+    3300020: Cylinder_028
+    3300022: Cylinder_029
+    3300024: Cylinder_030
+    3300026: Cylinder_031
+    4300000: Cylinder_020
+    4300002: Cylinder_021
+    4300004: Cylinder_022
+    4300006: Cylinder_023
+    4300008: Cylinder_024
+    4300010: Cylinder_025
+    4300012: Cylinder_026
+    4300014: Cylinder_027
+    4300016: Cube_004
+    4300018: Cube_005
+    4300020: Cylinder_028
+    4300022: Cylinder_029
+    4300024: Cylinder_030
+    4300026: Cylinder_031
+    6400000: Cube_004
+    6400002: Cube_005
+    6400004: Cylinder_020
+    6400006: Cylinder_021
+    6400008: Cylinder_022
+    6400010: Cylinder_023
+    6400012: Cylinder_024
+    6400014: Cylinder_025
+    6400016: Cylinder_026
+    6400018: Cylinder_027
+    6400020: Cylinder_028
+    6400022: Cylinder_029
+    6400024: Cylinder_030
+    6400026: Cylinder_031
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.7
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
